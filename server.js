@@ -16,8 +16,8 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:3000",
-  "https://tech-skil.github.io",
-  "https://tech-skil.github.io/jayportfolio",
+  "https://jay-portfolio-b7rn.onrender.com",
+
 ];
 
 app.use(
